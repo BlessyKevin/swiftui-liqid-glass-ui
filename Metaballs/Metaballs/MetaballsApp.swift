@@ -1,0 +1,17 @@
+//
+//  MetaballsApp.swift
+//  Metaballs
+//
+//  Created by Blessy Elizabeth Saini on 18/09/2025.
+//
+
+import SwiftUI
+
+@main
+struct MetaballsApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
